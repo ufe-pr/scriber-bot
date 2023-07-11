@@ -1,0 +1,3 @@
+- [] Add config for roles that can access each command
+- [] Implement better UX for fetching list of sessions and getting the notes directly
+- [] Add channel information to sessions
