@@ -1,4 +1,4 @@
-# Project Name
+# Scriber Bot
 
 This is a Discord bot project that provides session management and note-taking capabilities. It allows users to start sessions, end sessions, retrieve sessions, and retrieve notes for specific sessions within Discord channels.
 
